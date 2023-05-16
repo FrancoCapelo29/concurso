@@ -481,9 +481,9 @@ padding: 2rem 0;
     margin: 0.2rem;
 }
 .folow-user{
-    display: flex;
     justify-content: center;
-    margin-top: 5rem;
+    align-items: center;
+
 }
 
 /*FIN CONTENIDO FEED*/
